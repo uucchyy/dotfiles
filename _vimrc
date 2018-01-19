@@ -16,8 +16,8 @@ set hidden
 set history=2000
 set autoindent
 set expandtab
-set tabstop=2
-set shiftwidth=2
+set tabstop=4
+set shiftwidth=4
 set helplang=en
 
 nnoremap <Space>w  :<C-u>w<CR>
